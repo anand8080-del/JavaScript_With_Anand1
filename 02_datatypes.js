@@ -26,3 +26,10 @@ console.log(typeof num)
 
 // dataTypes in javaScript 
 // number 
+// Bigint 
+//String 
+//boolean
+//null =======that means Empty
+// undefined 
+//symbol ======= seen later used very important for the React
+//Object

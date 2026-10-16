@@ -7,4 +7,4 @@ let accountState;
 //accountId=3234;
 console.log(accountId);
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
-console.log(accountState);s
+console.log(accountState);

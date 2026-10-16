@@ -76,6 +76,3 @@ digit--            // this is known as postDecrement Operator
 --digit             // this is known as preDecrement Operator
 
 console.log(digit)
-
-
-//

@@ -25,11 +25,14 @@ console.log(convertIntoString)
 
 console.log("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 
-let num = null
+let num = true
 
 let convertIntoInteger = Number(num)
 
 console.log(typeof convertIntoInteger)
 
 console.log(convertIntoInteger)
+
+// with the help of things we have to do convert Operations in js i think this is same as a casting in java
+// as per need we covert this values 
 
