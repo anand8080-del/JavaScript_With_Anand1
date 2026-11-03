@@ -3,7 +3,7 @@
 //primitive dataTypes: String, Number, Boolean, Undefined, Null
 
 //Non_Primitive dataTypes: Array, Objects, Functions 
-// this is the mainly used non-primitive data types in js there bi differance betweeen java and javascript 
+// this is the mainly used non-primitive data types in js there is a differance betweeen java and javascript 
 
 // javaScript is a dynamically typed language 
 
@@ -70,3 +70,5 @@ console.log(typeof arr)        // it will returna object
 console.log(typeof number1)
 
 //the return type of number1 is Symbol
+
+//Non_Primitive Datatypes:Array, object, Function.
