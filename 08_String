@@ -1,0 +1,18 @@
+//``  = Backticks     ---> these Symbol is used for the Writing a Readable String
+
+
+let name = "anand";       // this is the String in javaScript and its a primitive dataType
+console.log(name[0]);
+
+
+let name1 = new String("anuuuu");   //Craeting the String Object in javaScript with the help of new keyword and String constructor
+console.log(name1[2]);
+console.log(name1.length);
+console.log(name.length);
+
+let roll=19;
+
+console.log(`the name of the Student is ${name} and his roll number is ${roll}`);  // this is the way to write a readable String in javaScript
+
+
+
